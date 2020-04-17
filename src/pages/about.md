@@ -1,7 +1,6 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+title: About Carzam
+img_path: images/cars.jpg
 menus:
   main:
     title: About
@@ -9,12 +8,10 @@ menus:
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Carzam** is a platform to enable a the totality of knowledge, purchase and maintenance of cars. Hosted [here](https://mycarzam.com), but based in Lagos Nigeria.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Born out of the frustration that car owners face when trying to find the right car for them, Carzam exists to solve all of those problems.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> Car hunting? No stress. Say Carzam ⚡ and get the right car for you!.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Thank You for reading!_
