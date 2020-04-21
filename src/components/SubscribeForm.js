@@ -3,8 +3,9 @@ import React from 'react';
 export default class SubscribeForm extends React.Component {
     render() {
         return (
-            <form name="subscribeForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="subscribe-form"
-              className="subscribe-form">
+            // <form name="subscribeForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="subscribe-form"
+            //   className="subscribe-form">
+            <form action="https://getform.io/f/107442c1-2fe1-4ee7-a54b-e9414921023b" method="POST" accept-charset="UTF-8" enctype="multipart/form-data" name="blogMycarzamForm" id="subscribe-form" className="subscribe-form">
               <div className="screen-reader-text">
                 <label>Don't fill this out if you're human: <input name="bot-field" /></label>
               </div>

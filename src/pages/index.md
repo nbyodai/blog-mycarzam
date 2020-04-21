@@ -6,7 +6,7 @@ sections:
     section_id: intro
     component: Intro
     content: >-
-      A blog about all things (relevant) cars.
+      A blog about all things cars.
     actions:
       - label: Learn More
         url: https://mycarzam.com
